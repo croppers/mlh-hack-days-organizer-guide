@@ -19,4 +19,4 @@ Upon event approval, you will receive a set of slides as part of the official on
 
 ### Judging Info
 
-The most important thing is to validate they're actually using the Gemini API in their app.\
+The most important thing is to validate they're actually using the MongoDB Atlas service in their app.\
