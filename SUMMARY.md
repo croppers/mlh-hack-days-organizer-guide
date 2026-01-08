@@ -19,4 +19,3 @@
 * [MongoDB](partner-details/mongodb.md)
 * [Snowflake](partner-details/snowflake.md)
 * [GitHub](partner-details/github.md)
-* [Snowflake](partner-details/snowflake-1.md)
