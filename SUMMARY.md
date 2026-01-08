@@ -18,3 +18,4 @@
 * [Google Gemini](partner-details/google-gemini.md)
 * [MongoDB](partner-details/mongodb.md)
 * [GitHub](partner-details/github.md)
+* [Snowflake](partner-details/snowflake.md)
