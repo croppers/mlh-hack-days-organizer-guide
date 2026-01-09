@@ -47,6 +47,9 @@ Not at all! Hack Days are open to everyone, including professionals / non-studen
 
 Nope! Your event can have any theme you like. We provide an opt-in prize for our partners at your event, like “Best Use of Google Gemini,” but you’re welcome to add your own themes and prizes.
 
+### How often can I host a Hack Day?
+You may host one Hack Day per partner sponsor per semester. For example, you are welcome to organize both a Google Gemini Hack Day and a MongoDB Hack Day in the same semester, but you cannot host two Google Gemini Hack Days within that same timeframe.
+
 ### Who should I contact with further questions?
 
 Please send us an email at hackdays@mlh.io!
